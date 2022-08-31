@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Kumar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Chemical Engineering at IIT Madras. I also have a minor in Systems Engineering
+- 🌱 I’m a Chemical Engineering graduate from IIT Madras. I also have a minor in Systems Engineering
 - 📫 You can reach me on saik65489@gmail.com
 
 <!---
